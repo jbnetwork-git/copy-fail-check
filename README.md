@@ -78,10 +78,10 @@ Y luego intenta:
 rmmod algif_aead
 ```
 ## Pantallazos.
-Antes de aplicar la mitigación:
+Antes de aplicar la mitigación:<br>
 ![Logo](imagenes/antes.png)
 
-Despues de aplicar la mitigación:
+Despues de aplicar la mitigación:<br>
 ![Logo](imagenes/despues.png)
 
 ## Recomendación importante
