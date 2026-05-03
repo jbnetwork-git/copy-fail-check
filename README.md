@@ -90,7 +90,7 @@ Esta herramienta sirve para revisión rápida y contención temporal.
 La recomendación principal sigue siendo:
 
 - **parchar kernel cuanto antes**
-- para workloads no confiables, considerar también bloqueo de **AF_ALG** vía seccomp
+- para workloads no confiables, considerar también bloqueo de el **AF_ALG** vía seccomp
 
 ## Nota
 
