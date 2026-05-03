@@ -1,3 +1,5 @@
+![Logo](imagenes/logoblanco.png)
+
 # copy-fail-check
 CVE-2026-31431  Helper basado en https://copy.fail/
 # Copy Fail Verificación Rápida
