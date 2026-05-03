@@ -12,7 +12,7 @@ Pensado principalmente para:
 - Debian / Ubuntu
 - AlmaLinux / Rocky / RHEL-like
 
-## Qué hace
+## ¿Qué hace?
 
 - Muestra sistema operativo, familia y kernel
 - Revisa si `algif_aead` está disponible
@@ -22,7 +22,7 @@ Pensado principalmente para:
 - Permite aplicar mitigación temporal
 - Permite revertir la mitigación temporal
 
-## Qué NO hace
+## ¿Qué NO hace?
 
 - No confirma al 100% si el sistema ya está parchado solo por versión
 - No reemplaza el parcheo de kernel
@@ -77,6 +77,12 @@ Y luego intenta:
 ```bash
 rmmod algif_aead
 ```
+## Pantallazos.
+Antes de aplicar la mitigación:
+![Logo](imagenes/antes.png)
+
+Despues de aplicar la mitigación:
+![Logo](imagenes/despues.png)
 
 ## Recomendación importante
 
