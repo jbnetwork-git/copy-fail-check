@@ -10,7 +10,7 @@ Helper interactivo en bash para revisar exposición básica relacionada con **CV
 
 Pensado principalmente para:
 - Debian / Ubuntu
-- AlmaLinux / Rocky / RHEL-like
+- AlmaLinux / Rocky / RHEL o basado en RedHat.
 
 ## ¿Qué hace?
 
